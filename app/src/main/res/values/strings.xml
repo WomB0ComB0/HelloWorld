@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="mike_intro">My name is Mike Odnis, and I am an up an coming full-stack software engineer. Based in Long Island, New York. Mostly self-taught, first-gen. With a wealth of technical experience, and knowledge.</string>
+    <string name="my_branded_logo_content_desc">My branded logo</string>
+    <string name="button_text_hello">Say hello!</string>
+</resources>
