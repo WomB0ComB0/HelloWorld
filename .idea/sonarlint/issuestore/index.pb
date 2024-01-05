@@ -7,3 +7,5 @@ m
 =app/src/main/java/com/example/helloworld/CircleAnimation.java,2\1\21032ee0f53c90defdc497d62c29119d9bf0c837
 =
 app/README.md,4\c\4c5b4e01137160a7f4b20b65b547907a29541367
+C
+settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
